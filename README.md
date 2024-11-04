@@ -15,10 +15,3 @@ I want to take the same idea, but use OpenAI's generative models to both illustr
 Illustrating this dataset is kind of a trivial task as you simply need to call OpenAI's image generation API for however many quotes you wish the model to draw. 
 
 Text generation on the other hand is a little more interesting, as you would want the model to mimic the base dataset, or maybe even draw from known authors such as Joyce and Shakespeare, in such a way that it can "sneak" the time of day into the story. 
-
-
-
-Ideally, I'd like to take the finished clock and publish it free-to-use on the app-store for people to turn their phones or tablets into clocks. 
-
-
-Free-to-use is the key part, as all good art is a profitless endeavor. 
